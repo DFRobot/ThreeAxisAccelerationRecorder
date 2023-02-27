@@ -11,6 +11,8 @@ The first step is to collect and store data for future model training on TinyML.
 
 ![image](https://user-images.githubusercontent.com/65546290/220807373-94c13fd6-9ec8-4f16-bd37-a0c77e8c080e.png)
 
+[The relevant information is uploaded on our YouTube channel](https://www.youtube.com/watch?v=tBgfStp40qQ&t=26s)
+
 # HARDWARE LIST
 
 * ESP32-E IoT Microcontroller
